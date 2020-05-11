@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrojanZoo
 ![logo](https://github.com/ain-soph/trojanzoo/raw/main/docs/source/images/trojanzoo-logo-readme.svg)
 
@@ -156,3 +157,6 @@ TrojanZoo has a GPL-style license, as found in the [LICENSE](https://github.com/
     booktitle = {Proceedings of ACM International Conference on Knowledge Discovery and Data Mining (KDD)},
 }
 ```
+=======
+# backdoor
+>>>>>>> a6e69ac (init)

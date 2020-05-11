@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configuration Files
 .vs
 .vscode
@@ -50,3 +51,27 @@ useless
 
 # test file
 /test.py
+=======
+.vs
+.vscode
+.DS_Store
+.devcontainer
+**/__pycache__/
+*.pyc
+*.ini
+*.svg
+*.eps
+.dropbox
+/bash/
+/data/
+/ref
+/output/
+/output*/
+
+abandon
+prev_projects
+ref
+
+dogfish
+tiny_imagenet
+>>>>>>> a6e69ac (init)
