@@ -1,4 +1,0 @@
-pyyaml pandas tqdm scikit-image scikit-learn scipy matplotlib
-torch>=1.11
-torchvision>=0.12
-numpy
